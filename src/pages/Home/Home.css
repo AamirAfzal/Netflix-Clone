@@ -93,6 +93,6 @@
   .hero-btns .btn {
     padding: 4px 10px;
     gap: 5px;
-    font: 10px;
+    font-size: 10px;
   }
 }
